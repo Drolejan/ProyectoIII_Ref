@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Carpeta a Ignorar.meta
+Assets/Carpeta a Ignorar/Reversed Interactive.meta
+Assets/Carpeta a Ignorar/Reversed Interactive/Mega Props Streaming.meta
+Assets/Carpeta a Ignorar/Reversed Interactive/Mega Props Streaming/3D Mega Props Streaming.unitypackage.meta
+Assets/Carpeta a Ignorar/Reversed Interactive/Mega Props Streaming/HDRP Mega Props Streaming.unitypackage.meta
+Assets/Carpeta a Ignorar/Reversed Interactive/Mega Props Streaming/URP Mega Props Streaming.unitypackage.meta
